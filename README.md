@@ -3,7 +3,7 @@
 <p>I’m Sh4dow-BR and thanks for stopping by!<p>
 
 <p>I'm just a guy learning the ways around Github, learning cybersecurity coding some project on the way!<p>
-<p>Find me at LinkedIn for more details about me :smile:<p>
+<p>Find me at LinkedIn for more details about who I am :smile:<p>
 
 ### My top languages in my repos: 
 
