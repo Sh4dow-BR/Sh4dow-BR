@@ -15,8 +15,9 @@
   
 ### Reach me at:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/falencarr/)](https://www.linkedin.com/in/falencarr/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://telegram.me/Cyb3r_t3ach3r)](https://telegram.me/Cyb3r_t3ach3r)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&labelColor=1ca0f1&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/falencarr/)](https://www.linkedin.com/in/falencarr/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://telegram.me/Cyb3r_t3ach3r)](https://telegram.me/Cyb3r_t3ach3r)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sh4dow__BR)](https://twitter.com/sh4dow__BR)
 
 
 ### I work daily with:
