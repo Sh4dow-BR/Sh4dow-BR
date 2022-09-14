@@ -1,17 +1,20 @@
 <div align="center"> 
 
-# Hello guys!👋 
+# Hello guys!👋
 
-<p>I’m Sh4dow-BR and thanks for stopping by!<p>
+<p><img src="https://tenor.com/view/hello-bear-how-are-you-greetings-salutations-gif-5948601.gif"/></p>
 
-<p>I'm just a guy learning the ways around Github, learning cybersecurity and coding some projects on the way!<p>
-<p>Find me at LinkedIn for more details about who I am :smile:<p>
+<p>I’m Sh4dow-BR and thanks for stopping by!</p>
 
+<p>I'm just a guy learning the ways around Github, learning cybersecurity and coding some projects on the way!</p>
+<p>Find me at LinkedIn for more details about who I am :smile:</p>
 
-### My top languages in my repos: 
+<div>
+  <a href="https:/https://github.com/Sh4dow-BR/">
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=Sh4dow-BR&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_rank=true"/>
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh4dow-BR&layout=compact&theme=dark&hide_border=true"/>
+</div>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh4dow-BR&layout=compact"><p>
-  
   
 ### Reach me at:
 
@@ -56,14 +59,15 @@
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-### Let's get back to work!
-  
-![hackerman](https://user-images.githubusercontent.com/108578555/179306285-a995a1ca-e19f-4cea-9c69-215b798c0ec4.gif)
-
-### REMEMBER:
+### FUN FACT:
+### I'd rather be a jack of all trades because
 ### A jack of all trades is a master of none, 
 ### but oftentimes better than a master of one.
 
 <img src="https://user-images.githubusercontent.com/108578555/181788572-a1a25b4b-4842-4329-b2da-e1d297953001.gif" width="300">
+
+
+### Now...Let's get back to work!
+  
+![hackerman](https://user-images.githubusercontent.com/108578555/179306285-a995a1ca-e19f-4cea-9c69-215b798c0ec4.gif)
 </div>
