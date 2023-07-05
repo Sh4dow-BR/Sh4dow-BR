@@ -18,12 +18,12 @@
   
 ### Reach me at:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&labelColor=1ca0f1&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/falencarr/)](https://www.linkedin.com/in/falencarr/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&labelColor=1ca0f1&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoshadowbr/)](https://www.linkedin.com/in/falencarr/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://telegram.me/Cyb3r_t3ach3r)](https://telegram.me/Cyb3r_t3ach3r)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sh4dow__BR)](https://twitter.com/sh4dow__BR)
 
 
-### I work daily with:
+### I have worked with:
 
 ![Sophos](https://img.shields.io/badge/-Sophos-blue?style=for-the-badge&logo=sophos&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-red?style=for-the-badge&logo=zabbix&logoColor=white)
@@ -38,9 +38,14 @@
 ![]()
 
 
-### Favorite IDE:
+### Favorite IDEs:
+#### For log analysis:
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
+<p></p>
+
+#### General coding:
+![VS Code](https://img.shields.io/badge/visualstudiocode-badge-blue.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
   
 ### I have some skills in some of these areas:
 
