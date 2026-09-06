@@ -31,6 +31,11 @@
 Check out my latest blog posts on [Medium](https://medium.com/@fernandoshadowbr)
 
 <!-- BLOG-POST-LIST:START -->
+- [Practical MITRE ATT&amp;CK for Cloud Detection Engineering: Stealth](https://medium.com/@fernandoshadowbr/practical-mitre-att-ck-for-cloud-detection-engineering-stealth-e184bb8befa0?source=rss-fe9b7181bd28------2)
+- [Practical MITRE ATT&amp;CK for Cloud Detection Engineering: Defense Impairment](https://medium.com/@fernandoshadowbr/practical-mitre-att-ck-for-cloud-detection-engineering-defense-impairment-3195e3fc3f81?source=rss-fe9b7181bd28------2)
+- [Practical MITRE ATT&amp;CK for Cloud Detection Engineering: Privilege Escalation](https://medium.com/@fernandoshadowbr/practical-mitre-att-ck-for-cloud-detection-engineering-privilege-escalation-f4b49a678896?source=rss-fe9b7181bd28------2)
+- [Why most AWS environments are one SCP away from being compromised](https://medium.com/@fernandoshadowbr/why-most-aws-environments-are-one-scp-away-from-being-compromised-bebcef6ea5f3?source=rss-fe9b7181bd28------2)
+- [Why the MITRE ATT&amp;CK IaaS Matrix is one of the most underused tools in cloud detection](https://medium.com/@fernandoshadowbr/why-the-mitre-att-ck-iaas-matrix-is-one-of-the-most-underused-tools-in-cloud-detection-40bfcdbd0ec2?source=rss-fe9b7181bd28------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🧰 Technical Skills
