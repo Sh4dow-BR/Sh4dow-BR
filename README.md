@@ -22,13 +22,11 @@
 * 🛡️ **Detection Engineer** specializing in cloud-native threat detection and security operations across AWS, Azure, and GCP.
 * 🎯 Focus on translating threat intelligence into actionable detections, working with **Detection-as-Code** pipelines, and optimizing SIEM environments.
 * 📈 Driving continuous improvement in detection coverage, alert fidelity, and SOC workflows through data-driven automation.
-* 🗣️ Professional English instructor—communicating complex technical concepts clearly across cross-functional teams and diverse audiences.
+* 🗣️ Professional English teacher where I can easily communicate complex technical concepts clearly across cross-functional teams and diverse audiences.
 
-### ✍️ Latest Medium Posts & Articles
+### ✍️ Medium Posts & Articles
 
-> *I write about Detection Engineering, Cloud Security, Threat Hunting, and Security Operations.*
->
-Check out my latest blog posts on [Medium](https://medium.com/@fernandoshadowbr)
+----> **I write about Detection Engineering, Cloud Security, Threat Hunting, and Security Operations.** <----
 
 <!-- BLOG-POST-LIST:START -->
 - [Practical MITRE ATT&amp;CK for Cloud Detection Engineering: Stealth](https://medium.com/@fernandoshadowbr/practical-mitre-att-ck-for-cloud-detection-engineering-stealth-e184bb8befa0?source=rss-fe9b7181bd28------2)
