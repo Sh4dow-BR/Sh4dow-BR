@@ -9,6 +9,7 @@
 *Detecting threat actors, one step at a time.*
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandoshadowbr)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@fernandoshadowbr)
   
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sh4dow-BR&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Sh4dow-BR&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&include_all_commits=true&theme=dark)
 
@@ -19,9 +20,18 @@
 ### 🤓 About Me
 
 * 🛡️ **Detection Engineer** specializing in cloud-native threat detection and security operations across AWS, Azure, and GCP.
-* 🎯 Focus on translating threat intelligence into actionable detections, building **Detection-as-Code** pipelines, and optimizing SIEM environments.
+* 🎯 Focus on translating threat intelligence into actionable detections, working with **Detection-as-Code** pipelines, and optimizing SIEM environments.
 * 📈 Driving continuous improvement in detection coverage, alert fidelity, and SOC workflows through data-driven automation.
 * 🗣️ Professional English instructor—communicating complex technical concepts clearly across cross-functional teams and diverse audiences.
+
+### ✍️ Latest Medium Posts & Articles
+
+> *I write about Detection Engineering, Cloud Security, Threat Hunting, and Security Operations.*
+>
+Check out my latest blog posts on [Medium](https://medium.com/@fernandoshadowbr)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 🧰 Technical Skills
 
